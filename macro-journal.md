@@ -7,7 +7,7 @@ Summarize our entire discussion or work session in a single, flowing markdown fo
   - What problem were we trying to solve or what feature we set out to build?
 
 4. **Tags / Categories**
-  - A short list of labels (e.g. `AKS`, `CI/CD`, `Troubleshooting`) to aid search.
+  - A short list of labels (e.g. `AKS`, `CI/CD`, `Troubleshooting`) to aid search. Use this format: #tag/<tag name>
 
 5. **Summary of Discussion**
   - High-level bullet points of what was covered, in chronological order.
