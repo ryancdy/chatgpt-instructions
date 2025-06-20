@@ -1,4 +1,4 @@
-Summarize our entire discussion or work session in a single, flowing markdown wiki entry. Include the following sections, in narrative order:
+Summarize our entire discussion or work session in a single, flowing markdown format to be referenced in a markdown wiki. Include the following sections, in narrative order:
 
 1. **Background & Context**
   - What led us here? Why did we start this conversation or project?
@@ -25,12 +25,10 @@ Summarize our entire discussion or work session in a single, flowing markdown wi
   - Key take-aways or gotchas to warn your future self about.
 
 11. **Reference Links**
-  - URLs or pointers to docs, tickets, repos, additional readings, etc.
+  - URLs or pointers to docs, tickets, repos, additional readings, etc. Do not include the macro-journal template's link.
 
 12. **Action Items & Challenges**
   - What remains unresolved? Who owns each task? Any foreseeable roadblocks.
 
 13. **Next Steps**
   - Clear, ordered follow-ups or experiments for the very next session.
-
-All formatted in markdown so I can drop it straight into my notes.  
