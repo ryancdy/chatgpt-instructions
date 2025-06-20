@@ -1,4 +1,4 @@
-Summarize our entire discussion or work session in a single, flowing markdown format to be referenced in a markdown wiki. Include the following sections, in narrative order:
+Summarize our entire discussion or work session in a single, flowing markdown format to be referenced in a markdown wiki, from a third person perspective. Include the following sections, in narrative order:
 
 1. **Background & Context**
   - What led us here? Why did we start this conversation or project?
