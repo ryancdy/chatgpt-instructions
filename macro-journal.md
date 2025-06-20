@@ -1,4 +1,4 @@
-Summarize our entire discussion or work session in a single, flowing markdown format to be referenced in a markdown wiki, from a third person perspective. Include the following sections, in narrative order:
+Summarize our entire discussion or work session in a single, flowing markdown format to be copied in a markdown wiki, from a third person perspective. Include the following sections, in narrative order:
 
 1. **Background & Context**
   - What led us here? Why did we start this conversation or project?
@@ -7,13 +7,13 @@ Summarize our entire discussion or work session in a single, flowing markdown fo
   - What problem were we trying to solve or what feature we set out to build?
 
 4. **Tags / Categories**
-  - A short list of labels (e.g. `AKS`, `CI/CD`, `Troubleshooting`) to aid search. Use this format: #tag/<tag name>
+  - A short list of labels (e.g. `AKS`, `CI/CD`, `Troubleshooting`) to aid search. Use this format: "#tag/<tag name>". For example, "#tag/AKS".
 
 5. **Summary of Discussion**
   - High-level bullet points of what was covered, in chronological order.
 
 6. **What Worked**
-  - Concrete steps that succeeded (include any commands, code snippets, or approaches that ran cleanly).
+  - Concrete steps that succeeded (include all commands, code snippets, or approaches that ran cleanly).
 
 7. **What Didn’t Work**
   - Dead ends, errors, failed attempts (with error messages or brief notes).
@@ -32,3 +32,5 @@ Summarize our entire discussion or work session in a single, flowing markdown fo
 
 13. **Next Steps**
   - Clear, ordered follow-ups or experiments for the very next session.
+
+Format the response in a markdown block that can be copied.
